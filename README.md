@@ -1,1 +1,5 @@
-# Machine-Learning
+# Discrimination of reflected sound signals
+
+We have tried to clarify how 1D convolutional neural networks can be used to classify time series in this article. It's worth noting that the approach suggested is not the only one available. There are ways to view time series in the form of images using their spectrograms, which can be done with a standard 2D convolution..
+CNNs have made significant strides in image processing and related fields in recent years. Due to its powerful and formidable learning capacity, image detection has become a major research focus. Major advancements have been identified by numerous researchers around the world in the fields of image marking, object recognition, image categorization, and other areas.
+This makes it possible to develop approaches to object detection and image classification. However, CNNs can only outperform humans at image recognition tasks if they are given a well-prepared data set. However, they are also insufficient devices for detecting stimuli such as noise and glare, which are readily detectable by humans.
